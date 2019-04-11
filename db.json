@@ -1,0 +1,48 @@
+{
+  "celeb-quiz": [
+    {
+      "id": 1,
+      "img": "https://i.imgur.com/xSFBj6S.jpg",
+      "options": [
+        {
+          "text": "Niharika Singh",
+          "result": false
+        },
+        {
+          "text": "Shirley Setia",
+          "result": true
+        },
+        {
+          "text": "Anushka Manchandani",
+          "result": false
+        },
+        {
+          "text": "Kiara Advani",
+          "result": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "img": "https://i.imgur.com/urH3XJB.jpg",
+      "options": [
+        {
+          "text": "Sagarika Ghatge",
+          "result": false
+        },
+        {
+          "text": "Sara Khan",
+          "result": false
+        },
+        {
+          "text": "Mandana Karimi",
+          "result": false
+        },
+        {
+          "text": "Mahira Khan",
+          "result": true
+        }
+      ]
+    }
+  ]
+}
